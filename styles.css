@@ -106,9 +106,12 @@
 #button{
     color: white;
 }
+.icon{
+    text-decoration: none;
+}
 .incon-style{
     display: flex;
-    text-decoration: none;
+    
     margin-right: 10px;
     
 }
