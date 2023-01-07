@@ -37,6 +37,26 @@
     margin-right: 135px;
     margin-top: 15px;
 }
+.btn-styles{
+    padding: 15px 30px;
+    background-color: white;
+    border: none;
+    color: red;
+    font-size: 18px;
+    margin-right: 135px;
+    margin-top: 15px;
+}
+.input{
+    font-size: 18px;
+    padding: 15px 30px;
+    padding-bottom: 10px;
+    background-color: white;
+}
+.form{
+    padding: 10px;
+    width: 90px;
+    height: 100vh;
+}
 /* main discription */
 .section{
     display: flex;
@@ -70,10 +90,17 @@
 .footer{
     display: flex;
     background-color: black;
+    gap: 250px;
+    padding-left: 200px;
+    padding-top: 200px;
+    height: 80vh;
 }
 .info{
     color: white;
 }
 h2{
     color: white;
+}
+.incon-style{
+    display: flex;
 }
